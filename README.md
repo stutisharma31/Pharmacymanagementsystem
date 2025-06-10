@@ -77,7 +77,6 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 - Add a new customer to their database
 - Make a new sale and register the sale details onto the database
 
-
 ## Database Architecture
 
 ***MEDS***: 
